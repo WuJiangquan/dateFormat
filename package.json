@@ -1,0 +1,19 @@
+{
+  "name": "dateFormat",
+  "version": "1.0.0",
+  "description": "date foramt time js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WuJiangquan/dateFormat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WuJiangquan/dateFormat/issues"
+  },
+  "homepage": "https://github.com/WuJiangquan/dateFormat#readme"
+}
