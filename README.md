@@ -8,27 +8,27 @@ var timeStr = dateFormat(now,"yyyy-mm-dd");
 console.log(timeStr) // "2018-02-19"
 ```
 # install
-  `npm install dateFormat --save `
+  `npm install date.str.format --save `
 # import 
 **es6**
 ```
-import dateFormat from "dateFormat";
+import dateFormat from "date.str.format";
 ```
 **amd**
 
 ```
-require("dateFormat",function(dateFormat){
+require("date.str.format",function(dateFormat){
     
 })
 ```
 **common.js**
 
 ```
-var dateFormat = require("dateFormat");
+var dateFormat = require("date.str.format");
 ```
 **script**
 ```
-<script "./node_modules/dateFormat/index.js">
+<script "./node_modules/date.str.format/index.js">
 </script>
 
 ```
