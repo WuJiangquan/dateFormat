@@ -1,11 +1,9 @@
 **"dateFromat"**  is a time string format tool.
-
-For instance, if you wanna get current date's string which format like "2018-10-01".You are only required to do bellow:
-
+For instance, if you wanna get today's (2018-02-19) "date string format", follow the steps bellow,
 ```
-var now = new Date();
-var timeStr = dateFormat(now,"yyyy-mm-dd");
-console.log(timeStr) // "2018-02-19"
+1. var now = new Date();
+2. var timeStr = dateFormat(now,"yyyy-mm-dd");
+3. console.log(timeStr) // "2018-02-19"
 ```
 # install
   `npm install date.str.format --save `
